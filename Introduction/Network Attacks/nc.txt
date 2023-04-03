@@ -1,0 +1,6 @@
+nc socket.cryptohack.org 11112
+
+paste this on the terminal
+{
+    "buy":"flag"
+}
